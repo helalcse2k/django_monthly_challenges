@@ -1,0 +1,24 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python / Django
+__pycache__/
+*.pyc
+*.pyo
+
+# Environments
+venv/
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# logs
+*.log
+logs/
+
+# migrations cache (optional depending project)
+*.sqlite3
