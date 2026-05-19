@@ -1,5 +1,5 @@
 {
     "python.languageServer": "Pylance",
     "python.pythonPath": "C:\\Python314\\python.exe",
-    "window.zoomLevel": 2
+    "window.zoomLevel": 1
 }
